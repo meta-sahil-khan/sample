@@ -1,0 +1,540 @@
+name,id,uri
+"AMAZON.COM, INC.",https://rdf.gleif.org/L1/L-ZXTILKJKG63JELOEG630,https://company.org/resource/Amazon.com%2C%20Inc.
+APPLE INC.,https://rdf.gleif.org/L1/L-HWUPKR0MPOU8FGXBT394,https://company.org/resource/Apple%20Inc.
+WALMART INC.,https://rdf.gleif.org/L1/L-Y87794H0US1R65VBXU25,https://company.org/resource/Walmart%20Inc.
+MICROSOFT CORPORATION,https://rdf.gleif.org/L1/L-INR2EJN1ERAN0W5ZP974,https://company.org/resource/Microsoft%20Corporation
+CVS HEALTH CORPORATION,https://rdf.gleif.org/L1/L-549300EJG376EN5NQE29,https://company.org/resource/CVS%20Health%20Corporation
+INTEL CORPORATION,https://rdf.gleif.org/L1/L-KNX4USFCNGPY45LOCE31,https://company.org/resource/Intel%20Corporation
+INTERNATIONAL BUSINESS MACHINES CORPORATION,https://rdf.gleif.org/L1/L-VGRQXHF3J8VDLUA7XE92,https://company.org/resource/International%20Business%20Machines%20Corporation
+Accenture PLC,https://rdf.gleif.org/L1/L-549300JY6CF6DO4YFQ03,https://company.org/resource/Accenture%20plc
+NVIDIA CORPORATION,https://rdf.gleif.org/L1/L-549300S4KLFTLO7GSQ80,https://company.org/resource/NVIDIA%20Corporation
+COSTCO WHOLESALE CORPORATION,https://rdf.gleif.org/L1/L-29DX7H14B9S6O3FD6V18,https://company.org/resource/Costco%20Wholesale%20Corporation
+Cigna International Health Services,https://rdf.gleif.org/L1/L-549300TS6LNLGYIGKQ07,https://company.org/resource/Cigna%20Global%20Health%20Benefits
+Target Corporation,https://rdf.gleif.org/L1/L-8WDDFXB5T1Z6J0XC1L66,https://company.org/resource/Target%20Corporation
+AMERISOURCEBERGEN CORPORATION,https://rdf.gleif.org/L1/L-AI8GXW8LG5WK7E9UD086,https://company.org/resource/AmerisourceBergen%20Corporation
+THE KROGER CO.,https://rdf.gleif.org/L1/L-6CPEOKI6OYJ13Q6O7870,https://company.org/resource/The%20Kroger%20Company
+"MARRIOTT INTERNATIONAL, INC.",https://rdf.gleif.org/L1/L-225YDZ14ZO8E1TXUSU86,https://company.org/resource/Marriott%20International%2C%20Inc.
+"VMWARE, INC.",https://rdf.gleif.org/L1/L-549300BUDHS3LRWBE814,https://company.org/resource/VMware%2C%20Inc.
+EXXONMOBIL OIL CORPORATION,https://rdf.gleif.org/L1/L-549300NCY2P2FLJT9D42,https://company.org/resource/ExxonMobil%20Corporation
+FORD MOTOR COMPANY,https://rdf.gleif.org/L1/L-20S05OYHG0MQM4VUIC57,https://company.org/resource/Ford%20Motor%20Company
+"PepsiCo, Inc.",https://rdf.gleif.org/L1/L-FJSUNZKFNQ5YPJ5OT455,https://company.org/resource/PepsiCo%2C%20Inc.
+WELLS FARGO & COMPANY,https://rdf.gleif.org/L1/L-54930004W6Z9H2LPE588,https://company.org/resource/Wells%20Fargo%20%26%20Company
+"CISCO SYSTEMS, INC.",https://rdf.gleif.org/L1/L-549300LKFJ962MZ46593,https://company.org/resource/Cisco%20Systems
+GENERAL ELECTRIC COMPANY,https://rdf.gleif.org/L1/L-3C7474T6CDKPR9K6YT90,https://company.org/resource/General%20Electric
+Dell Technologies Inc.,https://rdf.gleif.org/L1/L-549300TJB5YBRUPOG437,https://company.org/resource/Dell%20Technologies%20Inc.
+CENTENE CORPORATION,https://rdf.gleif.org/L1/L-549300Z7JJ4TQSQGT333,https://company.org/resource/Centene%20Corporation
+MARATHON PETROLEUM CORPORATION,https://rdf.gleif.org/L1/L-3BNYRYQHD39K4LCKQF12,https://company.org/resource/Marathon%20Petroleum
+"TESLA, INC.",https://rdf.gleif.org/L1/L-54930043XZGB27CTOV49,https://company.org/resource/Tesla%2C%20Inc.
+ORACLE CORPORATION,https://rdf.gleif.org/L1/L-1Z4GXXU7ZHVWFCD8TV52,https://company.org/resource/Oracle%20Corporation
+STARBUCKS CORPORATION,https://rdf.gleif.org/L1/L-OQSJ1DU9TAOC51A47K68,https://company.org/resource/Starbucks%20Corporation
+JPMORGAN CHASE & CO.,https://rdf.gleif.org/L1/L-8I5DZWZKVSZI1NUHU748,https://company.org/resource/JPMorgan%20Chase%20%26%20Co.
+FEDEX CORPORATION,https://rdf.gleif.org/L1/L-549300E707U7WNPZN687,https://company.org/resource/FedEx%20Corporation
+THERMO FISHER SCIENTIFIC INC.,https://rdf.gleif.org/L1/L-HCHV7422L5HDJZCRFL38,https://company.org/resource/Thermo%20Fisher%20Scientific%20Inc.
+"SALESFORCE, INC.",https://rdf.gleif.org/L1/L-RCGZFPDMRW58VJ54VR07,https://company.org/resource/Salesforce%2C%20Inc.
+RAYTHEON TECHNOLOGIES CORPORATION,https://rdf.gleif.org/L1/L-I07WOS4YJ0N7YRFE7309,https://company.org/resource/Raytheon%20Technologies%20Corporation
+NORTHROP GRUMMAN CORPORATION,https://rdf.gleif.org/L1/L-RIMU48P07456QXSO0R61,https://company.org/resource/Northrop%20Grumman%20Corporation
+"NIKE, INC.",https://rdf.gleif.org/L1/L-787RXPR0UX0O0XUXPZ81,https://company.org/resource/Nike%2C%20Inc.
+Humana Inc.,https://rdf.gleif.org/L1/L-529900YLDW34GJAO4J06,https://company.org/resource/Humana%20Inc.
+HP INC.,https://rdf.gleif.org/L1/L-WHKXQACZ14C5XRO8LW03,https://company.org/resource/HP%20Inc.
+QUALCOMM INCORPORATED,https://rdf.gleif.org/L1/L-H1J8DDZKZP6H7RWC0H53,https://company.org/resource/Qualcomm%20Incorporated
+THE WALT DISNEY COMPANY,https://rdf.gleif.org/L1/L-549300GZKULIZ0WOW665,https://company.org/resource/The%20Walt%20Disney%20Company
+JABIL INC.,https://rdf.gleif.org/L1/L-5493000CGCQY2OQU7669,https://company.org/resource/Jabil%20Inc.
+THE COCA-COLA COMPANY,https://rdf.gleif.org/L1/L-UWJKFUJFZ02DKWI3RY53,https://company.org/resource/The%20Coca-Cola%20Company
+MORGAN STANLEY,https://rdf.gleif.org/L1/L-IGJSJL3JD5P30I6NJZ34,https://company.org/resource/Morgan%20Stanley
+CITIGROUP INC.,https://rdf.gleif.org/L1/L-6SHGI4ZSSLCXXQSBB395,https://company.org/resource/Citigroup%20Inc.
+"TYSON FOODS, INC.",https://rdf.gleif.org/L1/L-WD6L6041MNRW1JE49D58,https://company.org/resource/Tyson%20Foods%2C%20Inc.
+ABBVIE INC.,https://rdf.gleif.org/L1/L-FR5LCKFTG8054YNNRU85,https://company.org/resource/AbbVie%20Inc.
+EDWARDS LIFESCIENCES CORPORATION,https://rdf.gleif.org/L1/L-YA13X31F3V31L8TMPR58,https://company.org/resource/Edwards%20Lifesciences%20Corporation
+HONEYWELL INTERNATIONAL INC.,https://rdf.gleif.org/L1/L-ISRPG12PN4EIEOEMW547,https://company.org/resource/Honeywell%20International%20Inc.
+COMCAST CORPORATION,https://rdf.gleif.org/L1/L-51M0QTTNCGUN7KFCFZ59,https://company.org/resource/Comcast%20Corporation
+"General Mills, Inc.",https://rdf.gleif.org/L1/L-2TGYMUGI08PO8X8L6150,https://company.org/resource/General%20Mills%2C%20Inc.
+FLEX LTD.,https://rdf.gleif.org/L1/L-549300EAQH74YHD07T53,https://company.org/resource/Flex%20Ltd.
+"Albertsons Companies, Inc.",https://rdf.gleif.org/L1/L-549300YKWOC0AOR16R51,https://company.org/resource/Albertsons%20Companies%2C%20Inc.
+BANK OF AMERICA CORPORATION,https://rdf.gleif.org/L1/L-9DJT3UXIJIZJI4WXO774,https://company.org/resource/Bank%20of%20America%20Corporation
+HEWLETT PACKARD ENTERPRISE COMPANY,https://rdf.gleif.org/L1/L-549300BX44RGX6ANDV88,https://company.org/resource/Hewlett-Packard%20Company
+WESTERN DIGITAL CORPORATION,https://rdf.gleif.org/L1/L-549300QQXOOYEF89IC56,https://company.org/resource/Western%20Digital
+"CARDINAL HEALTH, INC.",https://rdf.gleif.org/L1/L-CCU46N3GJMF4OK4N7U60,https://company.org/resource/Cardinal%20Health%2C%20Inc.
+CAMDEN PROPERTY TRUST,https://rdf.gleif.org/L1/L-5493002MYX22OHYJBD89,https://company.org/resource/Camden%20Property%20Trust
+"MetLife, Inc.",https://rdf.gleif.org/L1/L-C4BXATY60WC6XEOZDX54,https://company.org/resource/MetLife%2C%20Inc.
+"MACY'S, INC.",https://rdf.gleif.org/L1/L-529900NZQ81TIOW3CW52,https://company.org/resource/Macy%27s%2C%20Inc.
+APTIV GLOBAL FINANCING LIMITED,https://rdf.gleif.org/L1/L-549300MWKEKL1DZN0O58,https://company.org/resource/Aptiv%20PLC
+LyondellBasell Industries N.V.,https://rdf.gleif.org/L1/L-BN6WCCZ8OVP3ITUUVN49,https://company.org/resource/LyondellBasell%20Industries%20N.V.
+"WALGREENS BOOTS ALLIANCE, INC.",https://rdf.gleif.org/L1/L-549300RPTUOIXG4LIH86,https://company.org/resource/Walgreens%20Boots%20Alliance%2C%20Inc.
+BAXTER INTERNATIONAL INC.,https://rdf.gleif.org/L1/L-J5OIVXX3P24RJRW5CK77,https://company.org/resource/Baxter%20International%20Inc.
+PHILLIPS 66 COMPANY,https://rdf.gleif.org/L1/L-RVJMT2IZVVSKIRJJBH76,https://company.org/resource/Phillips%2066%20Company
+Kohl's Corporation,https://rdf.gleif.org/L1/L-549300JF6LPRTRJ0FH50,https://company.org/resource/Kohl%27s%20Corporation
+"CBRE, INC.",https://rdf.gleif.org/L1/L-549300MGZWS3ZWNOVV70,https://company.org/resource/CBRE%20inc
+HALLIBURTON COMPANY,https://rdf.gleif.org/L1/L-ENYF8GB5SMQZ25S06U51,https://company.org/resource/Halliburton%20Company
+"THE GOLDMAN SACHS GROUP, INC.",https://rdf.gleif.org/L1/L-784F5XWPLTWKTBV3E584,https://company.org/resource/The%20Goldman%20Sachs%20Group%2C%20Inc.
+"MICRON TECHNOLOGY, INC.",https://rdf.gleif.org/L1/L-B3DXGBC8GAIYWI2Z0172,https://company.org/resource/Micron%20Technology
+"UNITED NATURAL FOODS, INC.",https://rdf.gleif.org/L1/L-549300GKGW6WPZ282D40,https://company.org/resource/United%20Natural%20Foods%2C%20Inc.
+"THE TJX COMPANIES, INC.",https://rdf.gleif.org/L1/L-V167QI9I69W364E2DY52,https://company.org/resource/TJX%20Companies
+ADP,https://rdf.gleif.org/L1/L-969500IY667JOE7ERR52,https://company.org/resource/ADP%20%28company%29
+TE Connectivity Ltd.,https://rdf.gleif.org/L1/L-894500ZRIX9K13RHXR17,https://company.org/resource/TE%20Connectivity%20Ltd.
+"DUPONT DE NEMOURS, INC.",https://rdf.gleif.org/L1/L-5493004JF0SDFLM8GD76,https://company.org/resource/DuPont%20%28182-217%29%20and%20DuPont%20de%20Nemours%2C%20Inc.
+Broadcom Inc.,https://rdf.gleif.org/L1/L-549300WV6GIDOZJTV909,https://company.org/resource/Broadcom%20Inc.
+"PRUDENTIAL FINANCIAL, INC.",https://rdf.gleif.org/L1/L-5PRBRS5FEH7NREC8OR45,https://company.org/resource/Prudential%20Financial%2C%20Inc.
+ADOBE INC.,https://rdf.gleif.org/L1/L-FU4LY2G4933NH2E1CP29,https://company.org/resource/Adobe%20Inc.
+HCA Healthcare Inc.,https://rdf.gleif.org/L1/L-529900PH4ZGUH2MNEU89,https://company.org/resource/HCA%20Healthcare%2C%20Inc.
+"AMERICAN INTERNATIONAL GROUP, INC.",https://rdf.gleif.org/L1/L-ODVCVCQG2BP6VHV36M30,https://company.org/resource/American%20International%20Group%2C%20Inc.
+ABBOTT LABORATORIES,https://rdf.gleif.org/L1/L-549300I73MX1K4BJJV80,https://company.org/resource/Abbott%20Laboratories
+MASTERCARD INCORPORATED,https://rdf.gleif.org/L1/L-AR5L2ODV9HN37376R084,https://company.org/resource/Mastercard%20Inc.
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,https://rdf.gleif.org/L1/L-5493006IEVQEFQO40L83,https://company.org/resource/Cognizant%20Technology%20Solutions%20Corporation
+BUNGE LIMITED,https://rdf.gleif.org/L1/L-5493007M0RIN8HY3MM77,https://company.org/resource/Bunge%20Limited
+VISA INC.,https://rdf.gleif.org/L1/L-549300JZ4OKEHW3DPJ59,https://company.org/resource/Visa%20Inc.
+GLAXOSMITHKLINE LLC,https://rdf.gleif.org/L1/L-549300Y2PZWSSLJYI255,https://company.org/resource/GlaxoSmithKline
+NUCOR CORPORATION,https://rdf.gleif.org/L1/L-549300GGJCRSI2TIEJ46,https://company.org/resource/Nucor%20Corporation
+BorgWarner Inc.,https://rdf.gleif.org/L1/L-549300DSFX2IE88NSX47,https://company.org/resource/BorgWarner%20Inc.
+"GILEAD SCIENCES, INC.",https://rdf.gleif.org/L1/L-549300WTZWR07K8MNV44,https://company.org/resource/Gilead%20Sciences%2C%20Inc.
+CNH Industrial N.V.,https://rdf.gleif.org/L1/L-549300WGC2HZ5J67V817,https://company.org/resource/CNH%20Industrial%20N.V.
+Garmin Ltd.,https://rdf.gleif.org/L1/L-2549001E0HIPIJQ0W046,https://company.org/resource/Garmin%20Ltd.
+"ARAMARK SERVICES, INC.",https://rdf.gleif.org/L1/L-42YMHYH0XMHJEXDUB065,https://company.org/resource/Aramark%20Corporation
+CARNIVAL PLC,https://rdf.gleif.org/L1/L-4DR1VPDQMHD3N3QW8W95,https://company.org/resource/Carnival%20Corporation%20%26%20plc
+NXP Semiconductors N.V.,https://rdf.gleif.org/L1/L-724500M9BY5293JDF951,https://company.org/resource/NXP%20Semiconductors%20N.V.
+MONDELEZ INTERNATIONAL HOLDINGS LLC,https://rdf.gleif.org/L1/L-5493000TT01RPEHXM080,https://company.org/resource/Mondel%C4%93z%20International%2C%20Inc.
+MEDTRONIC PUBLIC LIMITED COMPANY,https://rdf.gleif.org/L1/L-549300GX3ZBSQWUXY261,https://company.org/resource/Medtronic%20plc
+MCDONALD'S CORPORATION,https://rdf.gleif.org/L1/L-UE2136O97NLB5BYP9H04,https://company.org/resource/McDonald%27s%20Corporation
+"PPG INDUSTRIES, INC.",https://rdf.gleif.org/L1/L-549300BKPEP01R3V6C59,https://company.org/resource/PPG%20Industries%2C%20Inc.
+CUMMINS INC.,https://rdf.gleif.org/L1/L-ZUNI8PYC725B6H8JU438,https://company.org/resource/Cummins%20Inc.
+THE CHARLES SCHWAB CORPORATION,https://rdf.gleif.org/L1/L-549300VSGCJ7E698NM85,https://company.org/resource/The%20Charles%20Schwab%20Corporation
+"L3HARRIS TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-549300UTE50ZMDBG8A20,https://company.org/resource/L3Harris%20Technologies%2C%20Inc.
+HILTON WORLDWIDE HOLDINGS INC.,https://rdf.gleif.org/L1/L-549300HVGPK36ICB0B89,https://company.org/resource/Hilton%20Worldwide%20Holdings%20Inc.
+KELLOGG COMPANY,https://rdf.gleif.org/L1/L-LONOZNOJYIBXOHXWDB86,https://company.org/resource/Kellogg%20Company
+SYSCO CORPORATION,https://rdf.gleif.org/L1/L-5RGWIFLMGH3YS7KWI652,https://company.org/resource/Sysco%20Corporation
+STONEX GROUP INC.,https://rdf.gleif.org/L1/L-549300JUF07L8VF02M60,https://company.org/resource/StoneX%20Group%20Inc.
+TEXTRON INC.,https://rdf.gleif.org/L1/L-3PPKBHUG1HD6BO7RNR87,https://company.org/resource/Textron%20Inc.
+AMPHENOL CORPORATION,https://rdf.gleif.org/L1/L-549300D3L3G0R4U4VT04,https://company.org/resource/Amphenol%20Corporation
+LABCORP INTERNATIONAL HOLDINGS LIMITED,https://rdf.gleif.org/L1/L-54930061RLSL70SGK763,https://company.org/resource/LabCorp
+Bristol-Myers Squibb SA,https://rdf.gleif.org/L1/L-5493000OZC4SYTEBVO64,https://company.org/resource/Bristol-Myers%20Squibb
+CARRIER GLOBAL CORPORATION,https://rdf.gleif.org/L1/L-549300JE3W6CWY2NAN77,https://company.org/resource/Carrier%20Global%20Corporation
+QUEST DIAGNOSTICS INCORPORATED,https://rdf.gleif.org/L1/L-8MCWUBXQ0WE04KMXBX50,https://company.org/resource/Quest%20Diagnostics%20Incorporated
+ELI LILLY AND COMPANY,https://rdf.gleif.org/L1/L-FRDRIPF3EKNDJ2CQJL29,https://company.org/resource/Eli%20Lilly%20and%20Company
+"Best Buy Co., Inc.",https://rdf.gleif.org/L1/L-HL5XPTVRV0O8TUN5LL90,https://company.org/resource/Best%20Buy%20Co.%20Inc.
+BERKSHIRE HATHAWAY INC.,https://rdf.gleif.org/L1/L-5493000C01ZX7D35SD85,https://company.org/resource/Berkshire%20Hathaway%20Inc.
+Rite Aid Corporation,https://rdf.gleif.org/L1/L-529900W353T1JY1DKT44,https://company.org/resource/Rite%20Aid%20Corporation
+"Chipotle Mexican Grill U.S. Finance Co., LLC",https://rdf.gleif.org/L1/L-5493007DZOMUBASCBX97,https://company.org/resource/Chipotle%20Mexican%20Grill%2C%20Inc.
+AMERICAN EXPRESS COMPANY,https://rdf.gleif.org/L1/L-R4PP93JZOLY261QX3811,https://company.org/resource/American%20Express%20Company
+Suncor Energy Inc.,https://rdf.gleif.org/L1/L-3XCBVWUPHGBZ5GF7TY15,https://company.org/resource/Suncor%20Energy%20Inc.
+CDW CORPORATION,https://rdf.gleif.org/L1/L-9845001B052ABF0B6755,https://company.org/resource/CDW%20Corporation
+"BLACKROCK, INC.",https://rdf.gleif.org/L1/L-549300LRIF3NWCU26A80,https://company.org/resource/BlackRock%2C%20Inc.
+Enbridge Inc.,https://rdf.gleif.org/L1/L-98TPTUM4IVMFCZBCUR27,https://company.org/resource/Enbridge%20Inc.
+THE KRAFT HEINZ COMPANY,https://rdf.gleif.org/L1/L-9845007488EC87F5AF14,https://company.org/resource/The%20Kraft%20Heinz%20Company
+"CARMAX, INC.",https://rdf.gleif.org/L1/L-529900F60CID3NCZM330,https://company.org/resource/CarMax%2C%20Inc.
+THE ALLSTATE CORPORATION,https://rdf.gleif.org/L1/L-OBT0W1ED8G0NWVOLOJ77,https://company.org/resource/The%20Allstate%20Corporation
+PACCAR INC,https://rdf.gleif.org/L1/L-KDTEY8BWE486IKZ3CC07,https://company.org/resource/Paccar%20Inc
+KEURIG DR PEPPER INC.,https://rdf.gleif.org/L1/L-DYTQ8KRTKO7Y2BVU5K74,https://company.org/resource/Keurig%20Dr%20Pepper%20Inc.
+ECOLAB INC.,https://rdf.gleif.org/L1/L-82DYEISM090VG8LTLS26,https://company.org/resource/Ecolab%20Inc.
+JONES LANG LASALLE INCORPORATED,https://rdf.gleif.org/L1/L-6SYKCME112RT8TQUO411,https://company.org/resource/Jones%20Lang%20LaSalle%20Incorporated
+JACOBS SOLUTIONS INDIA PRIVATE LIMITED,https://rdf.gleif.org/L1/L-335800U5AFBWDMRG5Z84,https://company.org/resource/Jacobs%20Solutions
+"DARDEN RESTAURANTS, INC.",https://rdf.gleif.org/L1/L-CY1NFSCCB5GUXC7WZC70,https://company.org/resource/Darden%20Restaurants%2C%20Inc.
+"CORNING FORD, INC.",https://rdf.gleif.org/L1/L-254900GRCZ3VXV95SO20,https://company.org/resource/Corning%20Inc.
+"KEYSIGHT TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-549300GLKVIO8YRCYN02,https://company.org/resource/Keysight%20Technologies%2C%20Inc.
+Sun Life Financial Inc.,https://rdf.gleif.org/L1/L-549300V040JZX5S66Z78,https://company.org/resource/Sun%20Life
+AGCO CORPORATION,https://rdf.gleif.org/L1/L-LYOM0B2GCF1JWXK5ZG04,https://company.org/resource/AGCO%20Corporation
+KKR & CO. INC.,https://rdf.gleif.org/L1/L-54930013V5I303TF9571,https://company.org/resource/KKR%20%26%20Co.%20Inc.
+Philip Morris International Inc.,https://rdf.gleif.org/L1/L-HL3H1H2BGXWVG3BSWR90,https://company.org/resource/Philip%20Morris%20International%20Inc.
+MICROCHIP TECHNOLOGY INCORPORATED,https://rdf.gleif.org/L1/L-5493007PTFULNYZJ1R12,https://company.org/resource/Microchip%20Technology%20Incorporated
+Caesars Entertainment Corporation,https://rdf.gleif.org/L1/L-529900CJT4VQO26ONP04,https://company.org/resource/Caesars%20Entertainment%20Corporation
+AMGEN INC.,https://rdf.gleif.org/L1/L-62QBXGPJ34PQ72Z12S66,https://company.org/resource/Amgen%20Inc.
+SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,https://rdf.gleif.org/L1/L-635400RUXIFEZSRU8X70,https://company.org/resource/Seagate%20Technology%20Holdings%20plc
+"DOLLAR TREE, INC.",https://rdf.gleif.org/L1/L-549300PMSTQITB1WHR43,https://company.org/resource/Dollar%20Tree%2C%20Inc.
+WHIRLPOOL CORPORATION,https://rdf.gleif.org/L1/L-WHENKOULSSK7WUM60H03,https://company.org/resource/Whirlpool%20Corporation
+DOLLAR GENERAL CORPORATION,https://rdf.gleif.org/L1/L-OPX52SQVOZI8IVSWYU66,https://company.org/resource/Dollar%20General%20Corporation
+"FORTINET, INC.",https://rdf.gleif.org/L1/L-549300O0QJWDBAS0QX03,https://company.org/resource/Fortinet%2C%20Inc.
+LKQ CORPORATION,https://rdf.gleif.org/L1/L-DS830JTTZQN6GK0I2E41,https://company.org/resource/LKQ%20Corporation
+ON SEMICONDUCTOR CORPORATION,https://rdf.gleif.org/L1/L-ZV20P4CNJVT8V1ZGJ064,https://company.org/resource/ON%20Semiconductor%20Corporation
+Hormel Oy,https://rdf.gleif.org/L1/L-743700OCSGJV4ATFRP53,https://company.org/resource/Hormel
+TELEDYNE TECHNOLOGIES INCORPORATED,https://rdf.gleif.org/L1/L-549300VSMO9KYQWDND94,https://company.org/resource/Teledyne%20Technologies
+OCCIDENTAL PETROLEUM CORPORATION,https://rdf.gleif.org/L1/L-IM7X0T3ECJW4C1T7ON55,https://company.org/resource/Occidental%20Petroleum%20Corporation
+"NETAPP, INC.",https://rdf.gleif.org/L1/L-QTX3D84DZDD5JYOCYH15,https://company.org/resource/NetApp%2C%20Inc.
+"REINSURANCE GROUP OF AMERICA, INCORPORATED",https://rdf.gleif.org/L1/L-LORM1GNEU1DKEW527V90,https://company.org/resource/Reinsurance%20Group%20of%20America%2C%20Incorporated%20%28RGA%29
+"C.H. Robinson Worldwide, Inc.",https://rdf.gleif.org/L1/L-529900WNWN5L0OVDHA79,https://company.org/resource/C.H.%20Robinson%20Worldwide%2C%20Inc.
+GENUINE PARTS COMPANY,https://rdf.gleif.org/L1/L-549300D46DQVEU651W04,https://company.org/resource/Genuine%20Parts%20Company
+"LEIDOS HOLDINGS, INC.",https://rdf.gleif.org/L1/L-549300IUTGTP6EJP8124,https://company.org/resource/Leidos%20Holdings%2C%20Inc.
+Truist Financial Corporation,https://rdf.gleif.org/L1/L-549300DRQQI75D2JP341,https://company.org/resource/Truist%20Financial%20Corporation
+INTUIT INC.,https://rdf.gleif.org/L1/L-VI90HBPH7XSFMB9E4M29,https://company.org/resource/Intuit%20Inc.
+"ANALOG DEVICES, INC.",https://rdf.gleif.org/L1/L-GYVOE5EZ4GDAVTU4CQ61,https://company.org/resource/Analog%20Devices%2C%20Inc.
+LENNAR CORPORATION,https://rdf.gleif.org/L1/L-529900G61XVRLX5TJX09,https://company.org/resource/Lennar%20Corporation
+"PALO ALTO NETWORKS, INC.",https://rdf.gleif.org/L1/L-549300QXR2YVZV231H43,https://company.org/resource/Palo%20Alto%20Networks%2C%20Inc.
+"WESCO INTERNATIONAL, INC.",https://rdf.gleif.org/L1/L-529900TXOGREY3WNJ434,https://company.org/resource/WESCO%20International
+"AMERICAN AIRLINES, INC.",https://rdf.gleif.org/L1/L-IWUQB36BXD6OWD6X4T14,https://company.org/resource/American%20Airlines%20Group%20Inc.
+"WORKDAY, INC.",https://rdf.gleif.org/L1/L-549300J0DYC0N31V7G13,https://company.org/resource/Workday%2C%20Inc.
+PBF Energy Inc.,https://rdf.gleif.org/L1/L-2549003PBEDCSZMZIY02,https://company.org/resource/PBF%20Energy%20Inc.
+DUKE ENERGY CORPORATION,https://rdf.gleif.org/L1/L-I1BZKREC126H0VB1BL91,https://company.org/resource/Duke%20Energy%20Corporation
+"APPLIED MATERIALS, INC.",https://rdf.gleif.org/L1/L-41BNNE1AFPNAZELZ6K07,https://company.org/resource/Applied%20Materials%2C%20Inc.
+JOHNSON CONTROLS INTERNATIONAL,https://rdf.gleif.org/L1/L-2138002MOUW7MFTDEF84,https://company.org/resource/Johnson%20Controls%20International
+WESTROCK COMPANY,https://rdf.gleif.org/L1/L-5493004Z9TCQW68YVL89,https://company.org/resource/WestRock%20Company
+"ELEVANCE HEALTH, INC.",https://rdf.gleif.org/L1/L-8MYN82XMYQH89CTMTH67,https://company.org/resource/Elevance%20Health%2C%20Inc.
+BAKER HUGHES EMEA UNLIMITED COMPANY,https://rdf.gleif.org/L1/L-GH1MB7KUVSN6JDATX935,https://company.org/resource/Baker%20Hughes%20Company
+"INTUITIVE SURGICAL, INC.",https://rdf.gleif.org/L1/L-54930052SRG011710797,https://company.org/resource/Intuitive%20Surgical%2C%20Inc.
+IQVIA HOLDINGS INC,https://rdf.gleif.org/L1/L-549300W3R20NM4KQPH86,https://company.org/resource/IQVIA%20Holdings%2C%20Inc.
+AVERY DENNISON CORPORATION,https://rdf.gleif.org/L1/L-549300PW7VPFCYKLIV37,https://company.org/resource/Avery%20Dennison%20Corporation
+SHOPIFY INC.,https://rdf.gleif.org/L1/L-549300HGQ43STJLLP808,https://company.org/resource/Shopify%20Inc.
+EBAY INC.,https://rdf.gleif.org/L1/L-OML71K8X303XQONU6T67,https://company.org/resource/eBay%20Inc.
+"MOTOROLA SOLUTIONS, INC.",https://rdf.gleif.org/L1/L-6S552MUG6KGJVEBSEC55,https://company.org/resource/Motorola%20Solutions%2C%20Inc.
+"Fidelity National Financial, Inc.",https://rdf.gleif.org/L1/L-549300CAZYIH39SYQ287,https://company.org/resource/Fidelity%20National%20Financial
+"SERVICENOW, INC.",https://rdf.gleif.org/L1/L-549300HJTQM36M0E1G39,https://company.org/resource/ServiceNow%2C%20Inc.
+"The Travelers Companies, Inc.",https://rdf.gleif.org/L1/L-549300Y650407RU8B149,https://company.org/resource/The%20Travelers%20Companies%2C%20Inc.
+THOMSON REUTERS CORPORATION,https://rdf.gleif.org/L1/L-549300561UZND4C7B569,https://company.org/resource/Thomson%20Reuters%20Corporation
+Marvell Technology Group Ltd.,https://rdf.gleif.org/L1/L-8DF36O58U3QIHUCGZB18,https://company.org/resource/Marvell%20Technology%2C%20Inc.
+"DICK'S SPORTING GOODS, INC.",https://rdf.gleif.org/L1/L-529900SSBV5I4LWSK313,https://company.org/resource/Dick%27s%20Sporting%20Goods%2C%20Inc.
+Tenet Healthcare Corporation,https://rdf.gleif.org/L1/L-0W9AIBT6U6ADJ2I8HK17,https://company.org/resource/Tenet%20Healthcare%20Corporation
+"GARTNER, INC.",https://rdf.gleif.org/L1/L-PP55B5R38BFB8O8HH686,https://company.org/resource/Gartner%2C%20Inc.
+Viatris Inc.,https://rdf.gleif.org/L1/L-254900ZZTSW7NL773X71,https://company.org/resource/Viatris%20Inc.
+COLGATE-PALMOLIVE COMPANY,https://rdf.gleif.org/L1/L-YMEGZFW4SBUSS5BQXF88,https://company.org/resource/Colgate-Palmolive%20Company
+"AGILENT TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-QUIX8Y7A2WP0XRMW7G29,https://company.org/resource/Agilent%20Technologies%2C%20Inc.
+"UNITED AIRLINES HOLDINGS, INC.",https://rdf.gleif.org/L1/L-98450079DA0B78DD6764,https://company.org/resource/United%20Airlines%20Holdings%2C%20Inc.
+"AutoZone, Inc.",https://rdf.gleif.org/L1/L-GA3JGKJ41LJKXDN23E90,https://company.org/resource/AutoZone%2C%20Inc.
+KIMBERLY-CLARK CORPORATION,https://rdf.gleif.org/L1/L-MP3J6QPYPGN75NVW2S34,https://company.org/resource/Kimberly-Clark%20Corporation
+INTERNATIONAL PAPER COMPANY,https://rdf.gleif.org/L1/L-824LMFJDH41EY779Q875,https://company.org/resource/International%20Paper%20Company
+TRANE TECHNOLOGIES PUBLIC LIMITED COMPANY,https://rdf.gleif.org/L1/L-549300BURLR9SLYY2705,https://company.org/resource/Trane%20Technologies%20plc
+"REGENERON PHARMACEUTICALS, INC.",https://rdf.gleif.org/L1/L-549300RCBFWIRX3HYQ56,https://company.org/resource/Regeneron%20Pharmaceuticals%2C%20Inc.
+"Paychex, Inc.",https://rdf.gleif.org/L1/L-529900K900DW6SUBM174,https://company.org/resource/Paychex%2C%20Inc.
+DANAHER CORPORATION,https://rdf.gleif.org/L1/L-S4BKK9OTCEWQ3YHPFM11,https://company.org/resource/Danaher%20Corporation
+"MOLINA HEALTHCARE, INC.",https://rdf.gleif.org/L1/L-549300NQQCEQ46YHZ591,https://company.org/resource/Molina%20Healthcare%2C%20Inc.
+"AUTODESK, INC.",https://rdf.gleif.org/L1/L-FRKKVKAIQEF3FCSTPG55,https://company.org/resource/Autodesk%2C%20Inc.
+"Alcon Industries, Inc.",https://rdf.gleif.org/L1/L-549300W0CUJKL49ZNH71,https://company.org/resource/Alcon%20Inc.
+"NRG ENERGY, INC.",https://rdf.gleif.org/L1/L-5E2UPK5SW04M13XY7I38,https://company.org/resource/NRG%20Energy%2C%20Inc.
+State Street Corporation,https://rdf.gleif.org/L1/L-549300ZFEEJ2IP5VME73,https://company.org/resource/State%20Street%20Corporation
+Owens Corning,https://rdf.gleif.org/L1/L-549300TOPQ8NG4HGVK16,https://company.org/resource/Owens%20Corning
+"HENRY SCHEIN, INC.",https://rdf.gleif.org/L1/L-VGO3WGL8H45T73F4RR92,https://company.org/resource/Henry%20Schein%2C%20Inc.
+Constellation Energy Corporation,https://rdf.gleif.org/L1/L-549300F8Y20RYGNGV346,https://company.org/resource/Constellation%20Energy%20Corporation
+Parker-Hannifin Corporation,https://rdf.gleif.org/L1/L-5493002CONDB4N2HKI23,https://company.org/resource/Parker%20Hannifin%20Corporation
+D.R. Autoworks Inc.,https://rdf.gleif.org/L1/L-549300XQD6SV5YZYGI87,https://company.org/resource/D.R.%20Horton%2C%20Inc.
+EATON CORPORATION,https://rdf.gleif.org/L1/L-0NZWDMRCE180888QQE14,https://company.org/resource/Eaton%20Corporation
+Spotify AB,https://rdf.gleif.org/L1/L-5493004INDUJX1TDHI57,https://company.org/resource/Spotify
+"Skyworks Solutions, Inc.",https://rdf.gleif.org/L1/L-549300WZ3ORQ2BVKBD96,https://company.org/resource/Skyworks%20Solutions
+"COINBASE GLOBAL, INC.",https://rdf.gleif.org/L1/L-5493004G3J2SC154DU06,https://company.org/resource/Coinbase%20Global%2C%20Inc.
+"Williams-Sonoma, Inc.",https://rdf.gleif.org/L1/L-549300IARG6YWVTZ1I92,https://company.org/resource/Williams-Sonoma%2C%20Inc.
+GN AUTONATION LLP,https://rdf.gleif.org/L1/L-984500D56CDB8C6DBB66,https://company.org/resource/AutoNation%2C%20Inc.
+Cintas Corporation No. 2,https://rdf.gleif.org/L1/L-549300QVUQTTKMTE0G41,https://company.org/resource/Cintas%20Corporation
+BOOKING HOLDINGS INC.,https://rdf.gleif.org/L1/L-FXM8FAOHMYDIPD38UZ17,https://company.org/resource/Booking%20Holdings%20Inc.
+THE CLOROX COMPANY,https://rdf.gleif.org/L1/L-54930044KVSC06Z79I06,https://company.org/resource/The%20Clorox%20Company
+BOSTON SCIENTIFIC CORPORATION,https://rdf.gleif.org/L1/L-Y6ZDD9FP4P8JSSJMW954,https://company.org/resource/Boston%20Scientific%20Corporation
+BIOGEN INC.,https://rdf.gleif.org/L1/L-W8J5WZB5IY3K0NDQT671,https://company.org/resource/Biogen%20Inc.
+"Ross Stores, Inc.",https://rdf.gleif.org/L1/L-549300ENZFLPGRDFZQ60,https://company.org/resource/Ross%20Stores%2C%20Inc.
+"LUMEN TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-8M3THTGWLTYZVE6BBY25,https://company.org/resource/Lumen%20Technologies%2C%20Inc.
+"CONAGRA BRANDS, INC.",https://rdf.gleif.org/L1/L-54930035UDEIH090K650,https://company.org/resource/Conagra%20Brands%2C%20Inc.
+GLOBAL PAYMENTS INC.,https://rdf.gleif.org/L1/L-549300NOMHGVQBX6S778,https://company.org/resource/Global%20Payments%20Inc.
+"EXPEDIA, INC.",https://rdf.gleif.org/L1/L-CI7MUJI4USF3V0NJ1H64,https://company.org/resource/Expedia%20Group%2C%20Inc.
+"PAYPAL HOLDINGS, INC.",https://rdf.gleif.org/L1/L-5493005X2GO78EFZ3E94,https://company.org/resource/PayPal%20Holdings%2C%20Inc.
+DAVITA INC.,https://rdf.gleif.org/L1/L-M2XHYMU3TZNEZURC6H66,https://company.org/resource/DaVita%20Inc.
+ELECTRONIC ARTS INC.,https://rdf.gleif.org/L1/L-549300O7A67PUEYKDL45,https://company.org/resource/Electronic%20Arts%20Inc.
+"US FOODS, INC.",https://rdf.gleif.org/L1/L-5493000JOOFAOUY1JZ87,https://company.org/resource/US%20Foods
+FREEPORT-MCMORAN INC.,https://rdf.gleif.org/L1/L-549300IRDTHJQ1PVET45,https://company.org/resource/Freeport-McMoRan%20Inc.
+"EOG RESOURCES, INC.",https://rdf.gleif.org/L1/L-XWTZDRYZPBUHIQBKDB46,https://company.org/resource/EOG%20Resources%2C%20Inc.
+"ASSURANT, INC.",https://rdf.gleif.org/L1/L-H3F39CAXWQRVWURFXL38,https://company.org/resource/Assurant%2C%20Inc.
+"KYNDRYL HOLDINGS, INC.",https://rdf.gleif.org/L1/L-549300LQ4LWX2R8ZV130,https://company.org/resource/Kyndryl%20Holdings%2C%20Inc.
+INVESCO LTD.,https://rdf.gleif.org/L1/L-ECPGFXU8A2SHKVVGJI15,https://company.org/resource/Invesco%20Ltd.
+"ACTIVISION BLIZZARD, INC.",https://rdf.gleif.org/L1/L-549300TPQQDBP9GNOF40,https://company.org/resource/Activision%20Blizzard%2C%20Inc.
+"VOYA FINANCIAL, INC.",https://rdf.gleif.org/L1/L-549300T065Z4KJ686G75,https://company.org/resource/Voya%20Financial%2C%20Inc.
+"BJ's Wholesale Club Holdings, Inc.",https://rdf.gleif.org/L1/L-549300UCIWH1C93V0J03,https://company.org/resource/BJ%27s%20Wholesale%20Club%20Holdings%2C%20Inc.
+"THE PNC FINANCIAL SERVICES GROUP, INC.",https://rdf.gleif.org/L1/L-CFGNEKW0P8842LEUIA51,https://company.org/resource/The%20PNC%20Financial%20Services%20Group%2C%20Inc.
+BOF-V AL Corp.,https://rdf.gleif.org/L1/L-254900HXSE0WEG91GG80,https://company.org/resource/Entergy%20Corp.%20v.%20Riverkeeper%2C%20Inc.%2C%20et%20al.
+"Altria Group, Inc.",https://rdf.gleif.org/L1/L-XSGZFLO9YTNO9VCQV219,https://company.org/resource/Altria%20Group%2C%20Inc.
+"EQUINIX, INC.",https://rdf.gleif.org/L1/L-549300EVUN2BTLJ3GT74,https://company.org/resource/Equinix%2C%20Inc.
+AECOM,https://rdf.gleif.org/L1/L-0EEB8GF0W0NPCIHZX097,https://company.org/resource/AECOM
+AON GLOBAL HOLDINGS PLC,https://rdf.gleif.org/L1/L-549300KJ06GHJLM4Z895,https://company.org/resource/Aon%20plc
+FMC CORPORATION,https://rdf.gleif.org/L1/L-CKDHZ2X64EEBQCSP7013,https://company.org/resource/FMC%20Corporation
+"Arista Networks, Inc",https://rdf.gleif.org/L1/L-635400H1WKBLOQERUU95,https://company.org/resource/Arista%20Networks%2C%20Inc.
+"ARROW ELECTRONICS, INC.",https://rdf.gleif.org/L1/L-549300YNNLBXT8N8R512,https://company.org/resource/Arrow%20Electronics%2C%20Inc.
+"CROWDSTRIKE HOLDINGS, INC.",https://rdf.gleif.org/L1/L-549300YBY08K9KM4HX32,https://company.org/resource/CrowdStrike%20Holdings%2C%20Inc.
+SNAP-ON INCORPORATED,https://rdf.gleif.org/L1/L-HHWAT5TDOYZMM26KKQ73,https://company.org/resource/Snap-on%20Incorporated
+WATERS CORPORATION,https://rdf.gleif.org/L1/L-5T547R1474YC9HOD8Q74,https://company.org/resource/Waters%20Corporation
+"GENWORTH FINANCIAL, INC.",https://rdf.gleif.org/L1/L-549300EMCG286BDNKJ33,https://company.org/resource/Genworth%20Financial%2C%20Inc.
+"HOLOGIC, INC.",https://rdf.gleif.org/L1/L-549300DYP6F5ZJL0LB74,https://company.org/resource/Hologic%2C%20Inc.
+DEVON ENERGY CORPORATION,https://rdf.gleif.org/L1/L-54930042348RKR3ZPN35,https://company.org/resource/Devon%20Energy%20Corporation
+"AVNET, INC.",https://rdf.gleif.org/L1/L-XJI53DCPL7QABOWK4Z75,https://company.org/resource/Avnet%2C%20Inc.
+AFLAC INCORPORATED,https://rdf.gleif.org/L1/L-549300N0B7DOGLXWPP39,https://company.org/resource/Aflac%20Incorporated
+Ovintiv Inc.,https://rdf.gleif.org/L1/L-2549003MEX7YMKLGI239,https://company.org/resource/Ovintiv%20Inc.
+"Dominion Energy, Inc.",https://rdf.gleif.org/L1/L-ILUL7B6Z54MRYCF6H308,https://company.org/resource/Dominion%20Energy%2C%20Inc.
+TEXAS INSTRUMENTS INCORPORATED,https://rdf.gleif.org/L1/L-WDJNR2L6D8RWOEB8T652,https://company.org/resource/Texas%20Instruments%20Incorporated
+CAMPBELL SOUP COMPANY,https://rdf.gleif.org/L1/L-5493007JDSMX8Z5Z1902,https://company.org/resource/Campbell%20Soup%20Company
+COMMERCIAL METALS COMPANY,https://rdf.gleif.org/L1/L-549300OQS2LO07ZJ7N73,https://company.org/resource/Commercial%20Metals%20Company
+"SYNOPSYS, INC.",https://rdf.gleif.org/L1/L-QG7T915N9S0NY5UKNE63,https://company.org/resource/Synopsys%2C%20Inc.
+"MOODY'S INVESTORS SERVICE, INC.",https://rdf.gleif.org/L1/L-549300J06DR268G1B556,https://company.org/resource/Moody%27s%20Investors%20Service
+SYNCHRONY FINANCIAL,https://rdf.gleif.org/L1/L-549300RS7EWPM9MA6C78,https://company.org/resource/Synchrony%20Financial
+OTIS WORLDWIDE CORPORATION,https://rdf.gleif.org/L1/L-549300ZLBKR8VSU25153,https://company.org/resource/Otis%20Worldwide%20Corporation
+"T. ROWE PRICE GROUP, INC.",https://rdf.gleif.org/L1/L-549300SIV6FPS9Y7IH33,https://company.org/resource/T.%20Rowe%20Price%20Group%2C%20Inc.
+"NASDAQ, INC.",https://rdf.gleif.org/L1/L-549300L8X1Q78ERXFD06,https://company.org/resource/Nasdaq
+"Altice USA, Inc.",https://rdf.gleif.org/L1/L-54930064K3612MGCER95,https://company.org/resource/Altice%20USA%2C%20Inc.
+"PRINCIPAL FINANCIAL GROUP, INC.",https://rdf.gleif.org/L1/L-CUMYEZJOAF02RYZ1JJ85,https://company.org/resource/Principal%20Financial%20Group%2C%20Inc.
+THE MOSAIC COMPANY,https://rdf.gleif.org/L1/L-2YD5STGSJNMUB7H76907,https://company.org/resource/The%20Mosaic%20Company
+NORTHERN TRUST CORPORATION,https://rdf.gleif.org/L1/L-549300GLF98S992BC502,https://company.org/resource/Northern%20Trust%20Corporation
+"Toll Brothers, Inc.",https://rdf.gleif.org/L1/L-529900JB6IS9MSZGVR44,https://company.org/resource/Toll%20Brothers%2C%20Inc.
+NEWMONT CORPORATION,https://rdf.gleif.org/L1/L-549300VSP3RIX7FGDZ51,https://company.org/resource/Newmont%20Corporation
+"Thor Industries, Inc.",https://rdf.gleif.org/L1/L-254900XZO1228PDSG060,https://company.org/resource/Thor%20Industries%2C%20Inc.
+BROWN-FORMAN CORPORATION,https://rdf.gleif.org/L1/L-549300873K3LXF7ARU34,https://company.org/resource/Brown%E2%80%93Forman%20Corporation
+CSX Corporation,https://rdf.gleif.org/L1/L-549300JVQR4N1MMP3Q88,https://company.org/resource/CSX%20Corporation
+MANPOWERGROUP INC.,https://rdf.gleif.org/L1/L-ERO1WSFOSR0JJ6CRQ987,https://company.org/resource/ManpowerGroup%20Inc.
+Xcel Energy Inc.,https://rdf.gleif.org/L1/L-LGJNMI9GH8XIDG5RCM61,https://company.org/resource/Xcel%20Energy%20Inc.
+CME Group Inc.,https://rdf.gleif.org/L1/L-KJNXBSWZVIKEX4NFOL81,https://company.org/resource/CME%20Group%20Inc.
+Atlassian Corporation,https://rdf.gleif.org/L1/L-549300V7ZY5P02D2MY38,https://company.org/resource/Atlassian%20Corporation
+"MERCADOLIBRE, INC.",https://rdf.gleif.org/L1/L-549300DKPDN9M5S8GB14,https://company.org/resource/MercadoLibre
+"KINDER MORGAN, INC.",https://rdf.gleif.org/L1/L-549300WR7IX8XE0TBO16,https://company.org/resource/Kinder%20Morgan%2C%20Inc.
+EMERSON ELECTRIC CO.,https://rdf.gleif.org/L1/L-FGLT0EWZSUIRRITFOA30,https://company.org/resource/Emerson%20Electric
+EQT CORPORATION,https://rdf.gleif.org/L1/L-4NT01YGM4X7ZX86ISY52,https://company.org/resource/EQT%20Corporation
+ILLINOIS TOOL WORKS INC.,https://rdf.gleif.org/L1/L-76NA4I14SZCFAYMNSV04,https://company.org/resource/Illinois%20Tool%20Works%20Incorporated%2C%20et%20al.%20v.%20Independent%20Ink%2C%20Incorporated
+"YUM! Brands, Inc.",https://rdf.gleif.org/L1/L-549300JE8XHZZ7OHN517,https://company.org/resource/Yum%21%20Brands%2C%20Inc.
+"FLEETCOR TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-549300DG6RR0NQSFLN74,https://company.org/resource/FleetCor%20Technologies%2C%20Inc.
+THE SHERWIN-WILLIAMS COMPANY,https://rdf.gleif.org/L1/L-Z15BMIOX8DDH0X2OBP21,https://company.org/resource/The%20Sherwin-Williams%20Company
+VERTEX PHARMACEUTICALS INCORPORATED,https://rdf.gleif.org/L1/L-54930015RAQRRZ5ZGJ91,https://company.org/resource/Vertex%20Pharmaceuticals%20Incorporated
+CLEVELAND-CLIFFS INC.,https://rdf.gleif.org/L1/L-549300TM2WLI2BJMDD86,https://company.org/resource/Cleveland-Cliffs%20Inc.
+UNUM GROUP,https://rdf.gleif.org/L1/L-549300E32YFDO6TZ8R31,https://company.org/resource/Unum%20Group
+DTE Energy Company,https://rdf.gleif.org/L1/L-549300IX8SD6XXD71I78,https://company.org/resource/DTE%20Energy%20Co.
+PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED,https://rdf.gleif.org/L1/L-PUSS41EMO3E6XXNV3U28,https://company.org/resource/Public%20Service%20Enterprise%20Group%20Incorporated
+"ROPER TECHNOLOGIES, INC.",https://rdf.gleif.org/L1/L-54930003T4SXCIWVXY35,https://company.org/resource/Roper%20Technologies%2C%20Inc.
+"Yum China Holdings, Inc.",https://rdf.gleif.org/L1/L-529900DO9BYZ7VA3K502,https://company.org/resource/Yum%20China%20Holdings%2C%20Inc.
+"STEEL DYNAMICS, INC.",https://rdf.gleif.org/L1/L-549300HGGKEL4FYTTQ83,https://company.org/resource/Steel%20Dynamics%2C%20Inc.
+VULCAN MATERIALS COMPANY,https://rdf.gleif.org/L1/L-549300Q8LSNHAVWBNI21,https://company.org/resource/Vulcan%20Materials%20Company
+Albemarle Corporation,https://rdf.gleif.org/L1/L-HDBLS2Q6GV1LSKQPBS54,https://company.org/resource/Albemarle%20Corporation
+"ONEOK, INC.",https://rdf.gleif.org/L1/L-2T3D6M0JSY48PSZI1Q41,https://company.org/resource/Oneok%2C%20Inc.
+PIONEER NATURAL RESOURCES COMPANY,https://rdf.gleif.org/L1/L-FY8JBF7CCL2VE4F1B628,https://company.org/resource/Pioneer%20Natural%20Resources%20Company
+ALLY FINANCIAL INC.,https://rdf.gleif.org/L1/L-549300JBN1OSM8YNAI90,https://company.org/resource/Ally%20Financial%20Inc.
+AMERICAN TOWER CORPORATION,https://rdf.gleif.org/L1/L-5493006ORUSIL88JOE18,https://company.org/resource/American%20Tower%20Corporation
+CELANESE CORPORATION,https://rdf.gleif.org/L1/L-549300FHJQTDPPN41627,https://company.org/resource/Celanese%20Corporation
+"Pension Plans of NextEra Energy, Inc. and its Affiliates",https://rdf.gleif.org/L1/L-549300WRTF5OXH23DG40,https://company.org/resource/NextEra%20Energy%2C%20Inc.
+ResMed Inc.,https://rdf.gleif.org/L1/L-529900T3QE5253CCXF22,https://company.org/resource/ResMed%20Inc.
+"CROWN MEDIA HOLDINGS, INC.",https://rdf.gleif.org/L1/L-54930006M0532SF5DF32,https://company.org/resource/Crown%20Media%20Holdings
+INTERACTIVE BROKERS LLC,https://rdf.gleif.org/L1/L-50OBSE5T5521O6SMZR28,https://company.org/resource/Interactive%20Brokers%20LLC
+GLOBALFOUNDRIES INC.,https://rdf.gleif.org/L1/L-549300BA76VK784VMX48,https://company.org/resource/GlobalFoundries%20Inc.
+"CITIZENS FINANCIAL GROUP, INC.",https://rdf.gleif.org/L1/L-2138004JDDA4ZQUPFW65,https://company.org/resource/Citizens%20Financial%20Group%2C%20Inc.
+INC Group Inc.,https://rdf.gleif.org/L1/L-549300I1AHR8KMMFIS52,https://company.org/resource/PulteGroup%2C%20Inc.
+"MCCORMICK & COMPANY, INCORPORATED",https://rdf.gleif.org/L1/L-549300JQQA6MQ4OJP259,https://company.org/resource/McCormick%20%26%20Company%2C%20Incorporated
+"EVEREST RE GROUP, LTD.",https://rdf.gleif.org/L1/L-549300N24XF2VV0B3570,https://company.org/resource/Everest%20Re%20Group%2C%20Ltd.
+Fannie Mae Trust 2006-W1,https://rdf.gleif.org/L1/L-5493001NEANKKEPIN618,https://company.org/resource/Fannie%20Mae
+"AMERIPRISE FINANCIAL, INC.",https://rdf.gleif.org/L1/L-6ZLKQF7QB6JAEKQS5388,https://company.org/resource/Ameriprise%20Financial%2C%20Inc.
+"Old Dominion Freight Line, Inc.",https://rdf.gleif.org/L1/L-5299009TWK32WE417T96,https://company.org/resource/Old%20Dominion%20Freight%20Line%2C%20Inc.
+"AVANTOR FUNDING, INC.",https://rdf.gleif.org/L1/L-5493003VM0XB4U8YD238,https://company.org/resource/Avantor%2C%20Inc.
+BAUSCH HEALTH COMPANIES INC.,https://rdf.gleif.org/L1/L-B3BS7ACMDUWISF18KY76,https://company.org/resource/Bausch%20Health%20Companies%20Inc.
+AMCOR PLC,https://rdf.gleif.org/L1/L-549300GSODGFCDQ3DI89,https://company.org/resource/Amcor%20plc
+FIRST HORIZON CORPORATION,https://rdf.gleif.org/L1/L-TF3RXI1ZB1TQ30H9JV10,https://company.org/resource/First%20Horizon%20National%20Corporation
+ZOETIS INC.,https://rdf.gleif.org/L1/L-549300HD9Q1LOC9KLJ48,https://company.org/resource/Zoetis%20Inc.
+"DOORDASH, INC.",https://rdf.gleif.org/L1/L-549300NUQ43FGGSK5051,https://company.org/resource/DoorDash%2C%20Inc.
+J.M. SMUCKER LLC,https://rdf.gleif.org/L1/L-549300RH3204BC21UZ79,https://company.org/resource/The%20J.M.%20Smucker%20Company
+THE HERSHEY COMPANY,https://rdf.gleif.org/L1/L-21X2CX66SU2BR6QTAD08,https://company.org/resource/The%20Hershey%20Company
+"AMETEK, INC.",https://rdf.gleif.org/L1/L-549300WZDEF9KKE40E98,https://company.org/resource/AMETEK%2C%20Inc.
+EQUIFAX INC.,https://rdf.gleif.org/L1/L-5493004MCF8JDC86VS77,https://company.org/resource/Equifax%20Inc.
+Manulife Financial Corporation,https://rdf.gleif.org/L1/L-5493007GBX87QOZACS27,https://company.org/resource/Manulife%20Financial%20Corporation
+"CONSTELLATION BRANDS, INC.",https://rdf.gleif.org/L1/L-5493005GKEG8QCVY7037,https://company.org/resource/Constellation%20Brands%2C%20Inc.
+HUNTINGTON BANCSHARES INCORPORATED,https://rdf.gleif.org/L1/L-549300XTVCVV9I7B5T19,https://company.org/resource/Huntington%20Bancshares%20Incorporated
+PERFORMANCE FOOD GROUP COMPANY,https://rdf.gleif.org/L1/L-549300EUK8GR9IT1YK57,https://company.org/resource/Performance%20Food%20Group%20Company
+MURPHY USA INC.,https://rdf.gleif.org/L1/L-549300Y081F8XIKQIO72,https://company.org/resource/Murphy%20USA
+TC Energy Corporation,https://rdf.gleif.org/L1/L-549300UGKOFV2IWJJG27,https://company.org/resource/TC%20Energy%20Corporation
+TERNIUM S.A.,https://rdf.gleif.org/L1/L-529900QG4KU23TEI2E46,https://company.org/resource/Ternium%20S.A.
+"Verisk Analytics, Inc.",https://rdf.gleif.org/L1/L-549300I1YSWNIRKBWP67,https://company.org/resource/Verisk%20Analytics%2C%20Inc.
+AMEREN CORPORATION,https://rdf.gleif.org/L1/L-XRZQ5S7HYJFPHJ78L959,https://company.org/resource/Ameren%20Corporation
+"RAYMOND JAMES FINANCIAL, INC.",https://rdf.gleif.org/L1/L-RGUZHJ05YTITL6D76949,https://company.org/resource/Raymond%20James%20Financial%2C%20Inc.
+LAM RESEARCH CORPORATION,https://rdf.gleif.org/L1/L-549300I4GMO6D34U1T02,https://company.org/resource/Lam%20Research%20Corporation
+LULULEMON ATHLETICA INC.,https://rdf.gleif.org/L1/L-549300D9GZ4BMLDW5T40,https://company.org/resource/lululemon%20athletica%20inc.
+OMNICOM GROUP INC.,https://rdf.gleif.org/L1/L-HKUPACFHSSASQK8HLS17,https://company.org/resource/Omnicom%20Group%20Inc.
+"ALIGN TECHNOLOGY, INC.",https://rdf.gleif.org/L1/L-549300N5YSE0U3LCP840,https://company.org/resource/Align%20Technology%2C%20Inc.
+"CORTEVA, INC.",https://rdf.gleif.org/L1/L-549300WZN9I2QKLS0O94,https://company.org/resource/Corteva%2C%20Inc.
+Marathon Oil Corporation,https://rdf.gleif.org/L1/L-1FRVQX2CRLGC1XLP5727,https://company.org/resource/Marathon%20Oil
+Norfolk Southern Corporation,https://rdf.gleif.org/L1/L-54930036C8MWP850MI84,https://company.org/resource/Norfolk%20Southern%20Railway
+"CENTERPOINT ENERGY, INC.",https://rdf.gleif.org/L1/L-21TPXMRRHFKOBHDC8J74,https://company.org/resource/CenterPoint%20Energy%2C%20Inc.
+"COUPANG, INC.",https://rdf.gleif.org/L1/L-549300XR4L1D80AK4W76,https://company.org/resource/Coupang%2C%20Inc.
+"AVIS BUDGET GROUP, INC.",https://rdf.gleif.org/L1/L-529900E95812SYWMCE44,https://company.org/resource/Avis%20Budget%20Group%2C%20Inc.
+"TERADYNE, INC.",https://rdf.gleif.org/L1/L-C3X4YJ278QNZHRJULN75,https://company.org/resource/Teradyne%2C%20Inc.
+"DIGITAL REALTY TRUST, INC.",https://rdf.gleif.org/L1/L-549300HKCZ31D08NEI41,https://company.org/resource/Digital%20Realty%20Trust%2C%20Inc.
+VEEVA SYSTEMS INC.,https://rdf.gleif.org/L1/L-549300YZEXPDB92M2F02,https://company.org/resource/Veeva%20Systems%20Inc.
+ZIM INTEGRATED SHIPPING SERVICES (INDIA) PRIVATE LIMITED,https://rdf.gleif.org/L1/L-3358006VQ3WOMII2UM06,https://company.org/resource/Zim%20Integrated%20Shipping%20Services%20Ltd.
+EVERSOURCE ENERGY,https://rdf.gleif.org/L1/L-SJ7XXD41SQU3ZNWUJ746,https://company.org/resource/Eversource%20Energy
+DISCOVER FINANCIAL SERVICES,https://rdf.gleif.org/L1/L-Z1YLO2USPORE63VVUL20,https://company.org/resource/Discover%20Financial%20Services
+Warner Bros. Entertainment Inc.,https://rdf.gleif.org/L1/L-549300U1JWW9SCOH3W56,https://company.org/resource/Warner%20Bros.%20Entertainment%20Inc.
+"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC.",https://rdf.gleif.org/L1/L-984500B055A804AB6E40,https://company.org/resource/Expeditors%20International%20of%20Washington%2C%20Inc.
+"Brighthouse Financial, Inc.",https://rdf.gleif.org/L1/L-5493003T8SZSHOGGAW52,https://company.org/resource/Brighthouse%20Financial%2C%20Inc.
+FIRSTENERGY CORP.,https://rdf.gleif.org/L1/L-549300SVYJS666PQJH88,https://company.org/resource/FirstEnergy%20Corp.
+LIBERTY GLOBAL PLC,https://rdf.gleif.org/L1/L-549300BSGXG3QLIQYT84,https://company.org/resource/Liberty%20Global
+Check Point Software Technologies Ltd,https://rdf.gleif.org/L1/L-2549003ZVBH73EPNS513,https://company.org/resource/Check%20Point%20Software%20Technologies%20Ltd.
+CROWN CASTLE INC.,https://rdf.gleif.org/L1/L-54930012H97VSM0I2R19,https://company.org/resource/Crown%20Castle%20Inc.
+MOLSON COORS BEVERAGE COMPANY,https://rdf.gleif.org/L1/L-54930073LBBH6ZCBE225,https://company.org/resource/Molson%20Coors%20Beverage%20Company
+NATWEST GROUP PLC,https://rdf.gleif.org/L1/L-2138005O9XJIJN4JPN90,https://company.org/resource/NatWest%20Group%20plc
+Cadence Bank,https://rdf.gleif.org/L1/L-Q7C315HKI8VX0SSKBS64,https://company.org/resource/Cadence%20Bank
+"LITHIA MOTORS, INC",https://rdf.gleif.org/L1/L-SE8N1EZEHPZQBCBVKD53,https://company.org/resource/Lithia%20Motors%2C%20Inc.
+"AMERICAN WATER WORKS COMPANY, INC.",https://rdf.gleif.org/L1/L-549300DXHIJQMD5WFW18,https://company.org/resource/American%20Water%20Works%20Company%2C%20Inc.
+FORTIVE CORPORATION,https://rdf.gleif.org/L1/L-549300MU9YQJYHDQEF63,https://company.org/resource/Fortive%20Corporation
+"SIMON PROPERTY GROUP, INC.",https://rdf.gleif.org/L1/L-529900GQL5X8H7AO3T64,https://company.org/resource/Simon%20Property%20Group%2C%20Inc.
+SBA Communications Corporation,https://rdf.gleif.org/L1/L-5299001HX8ZN8Y8QIT49,https://company.org/resource/SBA%20Communications%20Corporation
+"THE INTERPUBLIC GROUP OF COMPANIES, INC.",https://rdf.gleif.org/L1/L-5493008IUOJ5VWTRC333,https://company.org/resource/The%20Interpublic%20Group%20of%20Companies%2C%20Inc.
+"Burlington Stores, Inc.",https://rdf.gleif.org/L1/L-5299003Z37DVGKKC1W09,https://company.org/resource/Burlington%20Stores%2C%20Inc.
+"AMERICAN FINANCIAL GROUP, INC.",https://rdf.gleif.org/L1/L-549300AFOM7IVKIU1G39,https://company.org/resource/American%20Financial%20Group%2C%20Inc.
+BOOZ ALLEN HAMILTON HOLDING CORPORATION,https://rdf.gleif.org/L1/L-529900JPV47PIUWMA015,https://company.org/resource/Booz%20Allen%20Hamilton%20Holding%20Corporation
+Weyerhaeuser Company,https://rdf.gleif.org/L1/L-08IRJODWFYBI7QWRGS31,https://company.org/resource/Weyerhaeuser
+"LIVE NATION ENTERTAINMENT, INC.",https://rdf.gleif.org/L1/L-5493007B9BM9ZXJINO78,https://company.org/resource/Live%20Nation%20Entertainment%2C%20Inc.
+"IDEXX LABORATORIES, INC.",https://rdf.gleif.org/L1/L-OGMTXK0LUU1HKV2P0J84,https://company.org/resource/Idexx%20Laboratories
+U-HAUL HOLDING COMPANY,https://rdf.gleif.org/L1/L-5493003WIDMLDHYC6Y24,https://company.org/resource/U-Haul
+"TAPESTRY, INC.",https://rdf.gleif.org/L1/L-549300LJNVY5SW3VTN33,https://company.org/resource/Tapestry
+STIFEL FINANCIAL CORP.,https://rdf.gleif.org/L1/L-549300E5F07FE5GHJX84,https://company.org/resource/Stifel%20Financial%20Corp.
+"DIAMONDBACK ENERGY, INC.",https://rdf.gleif.org/L1/L-549300R22LSX6OHWEN64,https://company.org/resource/Diamondback%20Energy%2C%20Inc.
+W. R. BERKLEY CORPORATION,https://rdf.gleif.org/L1/L-SQOAGCLKBDWNVYV1OV80,https://company.org/resource/William%20R.%20Berkley
+CHESAPEAKE ENERGY CORPORATION,https://rdf.gleif.org/L1/L-X2MT1W32SPAZ9WSKLE78,https://company.org/resource/Chesapeake%20Energy%20Corporation
+ALLIANT ENERGY CORPORATION,https://rdf.gleif.org/L1/L-5493009ML300G373MZ12,https://company.org/resource/Alliant%20Energy%20Corporation
+Westlake Corporation,https://rdf.gleif.org/L1/L-GOXNEVUM0LL78B1OS344,https://company.org/resource/Westlake%20Corporation
+"ALEXANDRIA REAL ESTATE EQUITIES, INC.",https://rdf.gleif.org/L1/L-MGCJBT4MKTQBVLNUIS88,https://company.org/resource/Alexandria%20Real%20Estate%20Equities%2C%20Inc.
+"ANSYS, INC.",https://rdf.gleif.org/L1/L-549300VJV8H15Z5FJ571,https://company.org/resource/Ansys%2C%20Inc.
+LPL FINANCIAL HOLDINGS INC.,https://rdf.gleif.org/L1/L-549300XROQ4Y8G2L7682,https://company.org/resource/LPL%20Financial%20Holdings%20Inc
+"Apollo Global, Inc.",https://rdf.gleif.org/L1/L-549300HI7UBFW3P1SM55,https://company.org/resource/Apollo%20Global%20Management%2C%20Inc.
+NVR Inc.,https://rdf.gleif.org/L1/L-529900RWXR4JI3JYTV70,https://company.org/resource/NVR%2C%20Inc.
+"Martin Marietta Materials, Inc.",https://rdf.gleif.org/L1/L-5299005MZ4WZECVATV08,https://company.org/resource/Martin%20Marietta%20Inc.
+Comerica Incorporated,https://rdf.gleif.org/L1/L-I9Q57JVPWHHZ3ZGBW498,https://company.org/resource/Comerica%20Incorporated
+STRYKER CORPORATION,https://rdf.gleif.org/L1/L-5493002F0SC4JTBU5137,https://company.org/resource/Stryker%20Corporation
+"THE TRADE DESK, INC.",https://rdf.gleif.org/L1/L-549300GXPD31VT3E0P46,https://company.org/resource/The%20Trade%20Desk%2C%20Inc.
+"WEST PHARMACEUTICAL SERVICES, INC.",https://rdf.gleif.org/L1/L-5493007NKRGM1RJQ1P16,https://company.org/resource/West%20Pharmaceutical%20Services%2C%20Inc.
+WESTERN ALLIANCE BANCORPORATION,https://rdf.gleif.org/L1/L-5493003VJXZ5JXT9S762,https://company.org/resource/Western%20Alliance%20Bancorporation
+ARCH CAPITAL GROUP LTD.,https://rdf.gleif.org/L1/L-549300AYR4P8AFKDCE43,https://company.org/resource/Arch%20Capital%20Group%20Ltd.
+"CF Industries Holdings, Inc.",https://rdf.gleif.org/L1/L-529900CG8YAQFZ2JMV97,https://company.org/resource/CF%20Industries%20Holdings%2C%20Inc.
+ARES MANAGEMENT CORPORATION,https://rdf.gleif.org/L1/L-529900JUV61FH7B8VW38,https://company.org/resource/Ares%20Management%20Corporation
+INGERSOLL RAND INC.,https://rdf.gleif.org/L1/L-5299004C02FMZCUOIR50,https://company.org/resource/Ingersoll%20Rand%20Inc.
+WINTRUST FINANCIAL CORPORATION,https://rdf.gleif.org/L1/L-Q774KI4AW80FHFW33O61,https://company.org/resource/Wintrust%20Financial%20Corporation
+"Advance Auto Parts, Inc.",https://rdf.gleif.org/L1/L-529900UCNQ5H9FSL0Y70,https://company.org/resource/Advance%20Auto%20Parts%2C%20Inc.
+"FRANKLIN RESOURCES, INC.",https://rdf.gleif.org/L1/L-RIFQSET379FOGTEFKS80,https://company.org/resource/Franklin%20Resources%2C%20Inc.
+WELLTOWER INC.,https://rdf.gleif.org/L1/L-T6IZ0MBEG5ACZDTR7D06,https://company.org/resource/Welltower%20Inc.
+NISOURCE INC.,https://rdf.gleif.org/L1/L-549300D8GOWWH0SJB189,https://company.org/resource/NiSource%20Inc.
+"VERISIGN, INC.",https://rdf.gleif.org/L1/L-LMPL4N8ZOJRMF0KOF759,https://company.org/resource/Verisign%2C%20Inc.
+WEC ENERGY GROUP INC.,https://rdf.gleif.org/L1/L-549300IGLYTZUK3PVP70,https://company.org/resource/WEC%20Energy%20Group%2C%20Inc.
+"Zions Bancorporation, N.A.",https://rdf.gleif.org/L1/L-8WH0EE09O9V05QJZ3V89,https://company.org/resource/Zions%20Bancorporation%2C%20N.A.
+ATMOS ENERGY CORPORATION,https://rdf.gleif.org/L1/L-QVLWEGTD2S8GJMO8D383,https://company.org/resource/Atmos%20Energy%20Corporation
+Navient Corporation,https://rdf.gleif.org/L1/L-5493001WQKQWK1O18B04,https://company.org/resource/Navient%20Corporation
+CMS ENERGY CORPORATION,https://rdf.gleif.org/L1/L-549300IA9XFBAGNIBW29,https://company.org/resource/CMS%20Energy%20Corporation
+"BOSTON PROPERTIES, INC.",https://rdf.gleif.org/L1/L-549300OF70FSEUQBT254,https://company.org/resource/Boston%20Properties%2C%20Inc.
+PUBLIC STORAGE,https://rdf.gleif.org/L1/L-549300LMZF40TKJ6DM64,https://company.org/resource/Public%20Storage
+GLOBE LIFE INC.,https://rdf.gleif.org/L1/L-5493001JFHKQOPP6XA71,https://company.org/resource/Globe%20Life%20Inc.
+"ANNALY CAPITAL MANAGEMENT, INC.",https://rdf.gleif.org/L1/L-2DTL0G3FPRYUT58TI025,https://company.org/resource/Annaly%20Capital%20Management%2C%20Inc.
+AerCap Holdings N.V.,https://rdf.gleif.org/L1/L-549300SZYINBBLJQU475,https://company.org/resource/AerCap%20Holdings%20N.V.
+REALTY INCOME CORPORATION,https://rdf.gleif.org/L1/L-549300CUWDAUZSH43859,https://company.org/resource/Realty%20Income%20Corporation
+TRANSDIGM INC.,https://rdf.gleif.org/L1/L-88Q84GB3X55CF5OC7582,https://company.org/resource/TransDigm%20Group%20Incorporated
+EQUITY RESIDENTIAL,https://rdf.gleif.org/L1/L-5493008RACSH5EP3PI59,https://company.org/resource/Equity%20Residential
+PACWEST BANCORP,https://rdf.gleif.org/L1/L-549300YI8VMFO7G36V04,https://company.org/resource/PacWest%20Bancorp
+"DATADOG, INC.",https://rdf.gleif.org/L1/L-549300F6JNO0KRPO1K63,https://company.org/resource/Datadog%2C%20Inc.
+REGIONS FINANCIAL CORPORATION,https://rdf.gleif.org/L1/L-CW05CS5KW59QTC0DG824,https://company.org/resource/Regions%20Financial%20Corporation
+BOK Financial Corporation,https://rdf.gleif.org/L1/L-GRI2NT5QHYW751NMR949,https://company.org/resource/BOK%20Financial%20Corporation
+COTERRA ENERGY INC.,https://rdf.gleif.org/L1/L-FCNMH6O7VWU7LHXMK351,https://company.org/resource/Coterra%20Energy%20Inc.
+INVITATION HOMES INC.,https://rdf.gleif.org/L1/L-984500FE452E665C9F85,https://company.org/resource/Invitation%20Homes%20Inc.
+"CHARTER COMMUNICATIONS, INC.",https://rdf.gleif.org/L1/L-0J0XRGZE3PBRFEZ7MV65,https://company.org/resource/Charter%20Communications%2C%20Inc.
+Packaging Corporation of America,https://rdf.gleif.org/L1/L-549300XZP8MFZFY8TJ84,https://company.org/resource/Packaging%20Corporation%20of%20America
+"MID-AMERICA APARTMENT COMMUNITIES, INC.",https://rdf.gleif.org/L1/L-549300FQZKFR5YNSHZ21,https://company.org/resource/Mid-America%20Apartment%20Communities%2C%20Inc.
+"SUN COMMUNITIES, INC.",https://rdf.gleif.org/L1/L-549300H5GEOJYN41ZG57,https://company.org/resource/Sun%20Communities%2C%20Inc.
+SEGEN LIMITED,https://rdf.gleif.org/L1/L-549300J6NSCJL7I1LC72,https://company.org/resource/SeaGen
+VICI Properties Inc.,https://rdf.gleif.org/L1/L-254900RKH6RY9KCJQH63,https://company.org/resource/Vici%20Properties%20Inc.
+WEBSTER FINANCIAL CORPORATION,https://rdf.gleif.org/L1/L-KMRURHT0VWKYS6Z5KU67,https://company.org/resource/Webster%20Financial%20Corporation
+"Healthpeak Properties, Inc.",https://rdf.gleif.org/L1/L-254900M6MTMZM0I22L81,https://company.org/resource/Healthpeak%20Properties%2C%20Inc.
+SYNOVUS FINANCIAL CORP.,https://rdf.gleif.org/L1/L-549300EIUS8UN5JTLE54,https://company.org/resource/Synovus%20Financial%20Corp.
+EXTRA SPACE STORAGE,https://rdf.gleif.org/L1/L-529900SDJHKRQWED6A16,https://company.org/resource/Extra%20Space%20Storage%20Inc.
+"Copart, Inc.",https://rdf.gleif.org/L1/L-549300KVYX3JWMYEHU61,https://company.org/resource/Copart%2C%20Inc.
+"AVALONBAY COMMUNITIES, INC.",https://rdf.gleif.org/L1/L-K9G90K85RBWD2LAGQX17,https://company.org/resource/AvalonBay%20Communities%2C%20Inc.
+"Evergy, Inc.",https://rdf.gleif.org/L1/L-549300PGTHDQY6PSUI61,https://company.org/resource/Evergy%2C%20Inc.
+Royal Bank of Canada,https://rdf.gleif.org/L1/L-ES7IP3U3RHIGC71XBU11,https://company.org/resource/Royal%20Bank%20of%20Canada
+Cigna International Health Services,https://rdf.gleif.org/L1/L-549300TS6LNLGYIGKQ07,https://company.org/resource/Cigna%20Global%20Health%20Benefits%20and%20Cigna%20Corporation
+GENERAL MOTORS COMPANY,https://rdf.gleif.org/L1/L-54930070NSV60J38I987,https://company.org/resource/General%20Motors%20Company
+BANK OF MONTREAL HOLDING INC.,https://rdf.gleif.org/L1/L-54930047C63MPGNXEO75,https://company.org/resource/Bank%20of%20Montreal
+"UNITED PARCEL SERVICE, INC.",https://rdf.gleif.org/L1/L-D01LMJZU09ULLNCY6Z23,https://company.org/resource/United%20Parcel%20Service%2C%20Inc.
+U.S. BANCORP,https://rdf.gleif.org/L1/L-N1GZ7BBF3NP8GI976H15,https://company.org/resource/U.S.%20Bancorp
+LOWE'S SERVICES INDIA PRIVATE LIMITED,https://rdf.gleif.org/L1/L-984500744436F36DA096,https://company.org/resource/Lowe%27s%20Companies%2C%20Inc.
+MCKESSON CORPORATION,https://rdf.gleif.org/L1/L-549300WZWOM80UCFSF54,https://company.org/resource/McKesson%20Corporation
+ARCHER-DANIELS-MIDLAND COMPANY,https://rdf.gleif.org/L1/L-549300LO13MQ9HYSTR83,https://company.org/resource/Archer%20Daniels%20Midland
+The Bank of New York Mellon,https://rdf.gleif.org/L1/L-HPFHU0OQ28E4N0NFVK49,https://company.org/resource/The%20Bank%20of%20New%20York%20Mellon
+"AMERICAN ELECTRIC POWER COMPANY, INC.",https://rdf.gleif.org/L1/L-1B4S6S7G0TW5EE83BO58,https://company.org/resource/American%20Electric%20Power%20Company%2C%20Inc.
+SEMPRA ENERGY,https://rdf.gleif.org/L1/L-PBBKGKLRK5S5C0Y4T545,https://company.org/resource/Sempra%20Energy
+The Progressive Corporation,https://rdf.gleif.org/L1/L-529900TACNVLY9DCR586,https://company.org/resource/The%20Progressive%20Corporation
+"Becton, Dickinson B.V.",https://rdf.gleif.org/L1/L-1O39FYFC6FJHAHVGQL82,https://company.org/resource/Becton%20Dickinson
+"CONSOLIDATED EDISON, INC.",https://rdf.gleif.org/L1/L-54930033SBW53OO8T749,https://company.org/resource/Consolidated%20Edison%2C%20Inc.
+"THE HARTFORD FINANCIAL SERVICES GROUP, INC.",https://rdf.gleif.org/L1/L-IU7C3FTM7Y3BQM112U94,https://company.org/resource/The%20Hartford%20Financial%20Services%20Group%2C%20Inc.
+"INTERCONTINENTAL EXCHANGE, INC.",https://rdf.gleif.org/L1/L-5493000F4ZO33MV32P92,https://company.org/resource/Intercontinental%20Exchange%2C%20Inc.
+"DUPONT DE NEMOURS, INC.",https://rdf.gleif.org/L1/L-5493004JF0SDFLM8GD76,https://company.org/resource/DuPont%20%281802-2017%29%20and%20DuPont%20de%20Nemours%2C%20Inc.
+ProLogis Inc.,https://rdf.gleif.org/L1/L-529900DFH19P073LZ636,https://company.org/resource/Prologis%2C%20Inc.
+GE HEALTHCARE,https://rdf.gleif.org/L1/L-RNRDJSPCJR6HUAZ5Y148,https://company.org/resource/GE%20Healthcare
+PARAMOUNT PICTURES CORPORATION,https://rdf.gleif.org/L1/L-549300OJ7WHJ5FFDOQ11,https://company.org/resource/Republic%20Pictures%20Corporation
+"ADVANCED MICRO DEVICES, INC.",https://rdf.gleif.org/L1/L-R2I72C950HOYXII45366,https://company.org/resource/Advanced%20Micro%20Devices%2C%20Inc.
+Estée Lauder Finland Oy,https://rdf.gleif.org/L1/L-743700JKG3IVQTM5XH55,https://company.org/resource/Est%C3%A9e%20Lauder%20Companies
+THE BLACKSTONE GROUP INTERNATIONAL PARTNERS LLP,https://rdf.gleif.org/L1/L-2138005VSEXQ8H1LLR54,https://company.org/resource/The%20Blackstone%20Group
+"EQUITABLE HOLDINGS, INC.",https://rdf.gleif.org/L1/L-549300FIBAKMNHPZ4009,https://company.org/resource/Equitable%20Holdings
+"O'Reilly Automotive, Inc.",https://rdf.gleif.org/L1/L-549300K2RLMQL149Q332,https://company.org/resource/O%E2%80%99Reilly%20Automotive%2C%20Inc.
+KLA CORPORATION,https://rdf.gleif.org/L1/L-549300H0BF5JCG96TJ81,https://company.org/resource/KLA%20Corporation
+Fortis Inc.,https://rdf.gleif.org/L1/L-549300MQYQ9Y065XPR71,https://company.org/resource/Fortis%20Inc.
+KeyBank National Association,https://rdf.gleif.org/L1/L-HUX2X73FUCYHUVH1BK78,https://company.org/resource/KeyBank
+DISH NETWORK CORPORATION,https://rdf.gleif.org/L1/L-529900U350CWHH15G169,https://company.org/resource/Dish%20Network%20Corporation
+"W.W. GRAINGER, INC.",https://rdf.gleif.org/L1/L-549300TWZSP6O1IH2V34,https://company.org/resource/W.%20W.%20Grainger%2C%20Inc.
+"AIRBUS HELICOPTERS, INC.",https://rdf.gleif.org/L1/L-529900YIA2BPJ1XPYR28,https://company.org/resource/Airbus%20Group%2C%20Inc.
+FIS FOUNDATION,https://rdf.gleif.org/L1/L-529900OS6KHYMWEOOB71,https://company.org/resource/FIS
+"FIRST CITIZENS BANCSHARES, INC.",https://rdf.gleif.org/L1/L-549300HNUN45P7J57W81,https://company.org/resource/First%20Citizens%20BancShares%2C%20Inc.
+"MOTOROLA SOLUTIONS, INC.",https://rdf.gleif.org/L1/L-6S552MUG6KGJVEBSEC55,https://company.org/resource/Motorola%2C%20Inc.
+TRACTOR SUPPLY COMPANY,https://rdf.gleif.org/L1/L-549300OJ9VZHZRO6I137,https://company.org/resource/Tractor%20Supply%20Company
+Reliance Steel & Aluminum Co.,https://rdf.gleif.org/L1/L-549300E287ZOFT3C5Z56,https://company.org/resource/Reliance%20Steel%20%26%20Aluminum%20Co.
+Koninklijke Philips N.V.,https://rdf.gleif.org/L1/L-H1FJE8H61JGM1JSGM897,https://company.org/resource/Koninklijke%20Philips%20N.V.
+AGNICO EAGLE MINES LIMITED/MINES AGNICO EAGLE LIMITEE,https://rdf.gleif.org/L1/L-YGE0EUBRF7IJOB3QRX76,https://company.org/resource/Agnico%20Eagle%20Mines%20Limited
+"NEW YORK COMMUNITY BANCORP, INC.",https://rdf.gleif.org/L1/L-529900HVXOTLY61GL030,https://company.org/resource/New%20York%20Community%20Bancorp%2C%20Inc.
+Brookfield Renewable Partners L.P.,https://rdf.gleif.org/L1/L-VA8DFMRI2GY8Y7V79H93,https://company.org/resource/Brookfield%20Renewable%20Partners%20L.P.
+UNITED STATES STEEL CORPORATION,https://rdf.gleif.org/L1/L-JNLUVFYJT1OZSIQ24U47,https://company.org/resource/United%20States%20Steel%20Corporation
+Southwestern Energy Company,https://rdf.gleif.org/L1/L-EFWMP121W54QV9MGOP87,https://company.org/resource/Southwestern%20Energy%20Company
+THE HERTZ CORPORATION,https://rdf.gleif.org/L1/L-549300PD0C69OJ0NLB27,https://company.org/resource/The%20Hertz%20Corporation
+Westinghouse Air Brake Technologies Corporation,https://rdf.gleif.org/L1/L-54930010Q2UJDK777G13,https://company.org/resource/Westinghouse%20Air%20Brake%20Technologies%20Corporation
+VISTRA CORP.,https://rdf.gleif.org/L1/L-549300KP43CPCUJOOG15,https://company.org/resource/Vistra%20Corp.
+"Cadence Design Systems, Inc.",https://rdf.gleif.org/L1/L-GCT7RXJOGLXPV0NXZY22,https://company.org/resource/Cadence%20Design%20Systems%2C%20Inc.
+Cincinnati Financial Corporation,https://rdf.gleif.org/L1/L-254900Q4WEDMZBOZ0002,https://company.org/resource/Cincinnati%20Financial%20Corporation
+METTLER-TOLEDO INTERNATIONAL INC.,https://rdf.gleif.org/L1/L-5493000BD5GJNUDIUG10,https://company.org/resource/Mettler-Toledo%20International%20Inc.
+JEFFERIES FINANCIAL GROUP INC.,https://rdf.gleif.org/L1/L-549300HOF34RGOJ5YL07,https://company.org/resource/Jefferies%20Financial%20Group%20Inc.
+LAS VEGAS SANDS CORP.,https://rdf.gleif.org/L1/L-549300DUOO1KXOHPM605,https://company.org/resource/Las%20Vegas%20Sands%20Corp.
+Nu Pagamentos S.A. - Instituicao de Pagamentos,https://rdf.gleif.org/L1/L-25490039HH2GPH6TUN09,https://company.org/resource/Nu%20Pagamentos%20S.A.
+DXC TECHNOLOGY COMPANY,https://rdf.gleif.org/L1/L-549300DOVZ3EDJB7O259,https://company.org/resource/DXC%20Technology%20Company
+W.P. Carey Inc.,https://rdf.gleif.org/L1/L-54930042CRNE713E3Q67,https://company.org/resource/W.%20P.%20Carey%20Inc.
+"Asbury Automotive Group, Inc.",https://rdf.gleif.org/L1/L-549300JH4DTA7U42GL91,https://company.org/resource/Asbury%20Automotive%20Group
+ANTERO RESOURCES CORPORATION,https://rdf.gleif.org/L1/L-APVBKPOULHUX7YZLKU17,https://company.org/resource/Antero%20Resources%20Corporation
+"CULLEN/FROST BANKERS, INC.",https://rdf.gleif.org/L1/L-529900V2E9G9AY665O34,https://company.org/resource/Cullen%2FFrost%20Bankers%2C%20Inc.
+"RYDER SYSTEM, INC.",https://rdf.gleif.org/L1/L-ZXJ6Y2OSPZXIVGRILD15,https://company.org/resource/Ryder%20System%2C%20Inc.
+VALLEY NATIONAL BANCORP,https://rdf.gleif.org/L1/L-549300ET52S1UBIB9762,https://company.org/resource/Valley%20National%20Bancorp
+"GROUP 1 AUTOMOTIVE, INC.",https://rdf.gleif.org/L1/L-549300US8QAZJLWYAF63,https://company.org/resource/Group%201%20Automotive%2C%20Inc.
+"WORLD FUEL SERVICES, INC.",https://rdf.gleif.org/L1/L-MRBC525NKVRRWNTKD542,https://company.org/resource/World%20Fuel%20Services%20Corporation
+Olin Corporation,https://rdf.gleif.org/L1/L-549300GKK294V7W57P06,https://company.org/resource/Olin%20Corporation
+The Carlyle Group Inc.,https://rdf.gleif.org/L1/L-529900NGGVF94UK6PG95,https://company.org/resource/The%20Carlyle%20Group%20Inc.
+OLD NATIONAL BANCORP,https://rdf.gleif.org/L1/L-549300MMK90CL5KMVX16,https://company.org/resource/Old%20National%20Bancorp
+SEADRILL LIMITED,https://rdf.gleif.org/L1/L-213800EQ6L456U2JCO89,https://company.org/resource/Seadrill%20Limited
+IRON MOUNTAIN INCORPORATED,https://rdf.gleif.org/L1/L-SQL3F6CKNNBM3SQGHX24,https://company.org/resource/Iron%20Mountain%20Incorporated
+MANCHESTER UNITED FOOTBALL CLUB LIMITED,https://rdf.gleif.org/L1/L-213800CNW6K7XWOTB808,https://company.org/resource/Carlisle%20United%20Football%20Club%20and%20Carlisle%20United
+TAYLOR MORRISON HOME CORPORATION,https://rdf.gleif.org/L1/L-5299009UDLLGLKOOJE30,https://company.org/resource/Taylor%20Morrison%20Home%20Corporation
+"Casey's General Stores, Inc.",https://rdf.gleif.org/L1/L-549300CAFWSI86V66Q65,https://company.org/resource/Casey%27s%20General%20Stores
+"Watsco, Inc.",https://rdf.gleif.org/L1/L-549300F1Y3LN5BX5WN75,https://company.org/resource/Watsco%2C%20Inc.
+"Economic Development Authority of the City of Newport News, Virginia",https://rdf.gleif.org/L1/L-549300WZQTRG07G0UZ88,https://company.org/resource/Newport%20News%2C%20Virginia
+RENAISSANCERE HOLDINGS LTD.,https://rdf.gleif.org/L1/L-EK6GB9U3U58PDI411C94,https://company.org/resource/RenaissanceRe%20Holdings%20Ltd
+"BROADRIDGE FINANCIAL SOLUTIONS, INC.",https://rdf.gleif.org/L1/L-549300KZDJZQ2YIHRC28,https://company.org/resource/Broadridge%20Financial%20Solutions%2C%20Inc.
+HANCOCK WHITNEY CORPORATION,https://rdf.gleif.org/L1/L-549300GRNBWY8HIICT41,https://company.org/resource/Hancock%20Whitney%20Corp.
+F.N.B. CORPORATION,https://rdf.gleif.org/L1/L-PCYSKIGYNYFDTBLVZU83,https://company.org/resource/F.N.B.%20Corporation
+RANGE RESOURCES CORPORATION,https://rdf.gleif.org/L1/L-H3Y3WLYCX0BTO1TRW162,https://company.org/resource/Range%20Resources%20Corporation
+IDEX Corporation,https://rdf.gleif.org/L1/L-549300U5Y5EL6PHYLF13,https://company.org/resource/IDEX%20Corporation
+"ENPHASE ENERGY, INC.",https://rdf.gleif.org/L1/L-5493008U7KIGMI59Z314,https://company.org/resource/Enphase%20Energy%2C%20Inc.
+"Swift Transportation Co., LLC",https://rdf.gleif.org/L1/L-5493002STRE2C3YE3D37,https://company.org/resource/Knight-Swift%20Transportation%20Holdings%20Inc.
+PEABODY ENERGY CORPORATION,https://rdf.gleif.org/L1/L-EJCO258LNNVSKAR2JX59,https://company.org/resource/Peabody%20Energy%2C%20Inc.
+Chord Limited,https://rdf.gleif.org/L1/L-549300NWKVA85CQPN643,https://company.org/resource/Chord%20Energy%20Corporation
+HYATT HOTELS CORPORATION,https://rdf.gleif.org/L1/L-T27JQIMTYSH41TCD5186,https://company.org/resource/Hyatt%20Hotels%20and%20Resorts%20Corporation
+"Alnylam Pharmaceuticals, Inc.",https://rdf.gleif.org/L1/L-529900S3ZI14OWRJII50,https://company.org/resource/Alnylam%20Pharmaceuticals%2C%20Inc.
+Prosperity Bank,https://rdf.gleif.org/L1/L-549300D003QRZFSQ4N43,https://company.org/resource/Prosperity%20Bancshares%2C%20Inc.
+"OneMain Holdings, Inc.",https://rdf.gleif.org/L1/L-549300E3VEW8SMS5XW09,https://company.org/resource/OneMain%20Holdings%2C%20Inc.
+"HORIZON THERAPEUTICS USA, INC.",https://rdf.gleif.org/L1/L-254900IS87RLPXY88S03,https://company.org/resource/Horizon%20Therapeutics%20plc
+HOWMET AEROSPACE INC.,https://rdf.gleif.org/L1/L-549300HO5WFZUT5N2T22,https://company.org/resource/Howmet%20Aerospace%20Inc.
+Bank OZK,https://rdf.gleif.org/L1/L-549300VYK2WBD7SST478,https://company.org/resource/Bank%20OZK
+"LAMB WESTON HOLDINGS, INC.",https://rdf.gleif.org/L1/L-5493005SMYID1D2OY946,https://company.org/resource/Lamb%20Weston%20Holdings%2C%20Inc.
+"Monolithic Power Systems, Inc.",https://rdf.gleif.org/L1/L-529900TB7O85LSZ1XU31,https://company.org/resource/Monolithic%20Power%20Systems%2C%20Inc.
+IMR Metallurgical Resources AG,https://rdf.gleif.org/L1/L-529900F2U4R4RVEI8I29,https://company.org/resource/Alpha%20Metallurgical%20Resources%2C%20Inc.
+HEICO CORPORATION,https://rdf.gleif.org/L1/L-529900O1DTDLCJ7L0I14,https://company.org/resource/HEICO%20Corporation
+HUBBELL INCORPORATED,https://rdf.gleif.org/L1/L-54930088VDQ6840Y6597,https://company.org/resource/Hubbell%20Incorporated
+INC Group Inc.,https://rdf.gleif.org/L1/L-549300I1AHR8KMMFIS52,https://company.org/resource/Dillard%27s%2C%20Inc.
+"HUBSPOT, INC.",https://rdf.gleif.org/L1/L-529900BLNVEW0MVKJB37,https://company.org/resource/HubSpot%2C%20Inc.
+UNITED THERAPEUTICS CORPORATION,https://rdf.gleif.org/L1/L-5299005C4HZL4UWROC14,https://company.org/resource/United%20Therapeutics
+RPM INTERNATIONAL INC.,https://rdf.gleif.org/L1/L-549300TJCKW4BRXPJ474,https://company.org/resource/RPM%20International%20Inc.
+UNIVAR SOLUTIONS INC.,https://rdf.gleif.org/L1/L-549300VSXHFQVR770L55,https://company.org/resource/Univar%20Solutions%20Inc.
+MURPHY OIL CORPORATION,https://rdf.gleif.org/L1/L-QBKYQD0ODE7DC7PDIN91,https://company.org/resource/Murphy%20Oil
+XYLEM INC.,https://rdf.gleif.org/L1/L-549300DF5MV96DRYLQ48,https://company.org/resource/Xylem%20Inc.
+"PAR PACIFIC HOLDINGS, INC.",https://rdf.gleif.org/L1/L-549300BTNS7MHSHRLR55,https://company.org/resource/Par%20Pacific%20Holdings%2C%20Inc.
+Penn Elcom Inc,https://rdf.gleif.org/L1/L-5493006YKOGAZ4X9K625,https://company.org/resource/Penn%20Entertainment%2C%20Inc.
+Polaris Inc.,https://rdf.gleif.org/L1/L-549300QJSN8UVWN1EI78,https://company.org/resource/Polaris%20Inc.
+"THE GAP, INC.",https://rdf.gleif.org/L1/L-T2ZG1WRWZ4BUCMQL9224,https://company.org/resource/The%20Gap%2C%20Inc.
+UNITY CORPORATION,https://rdf.gleif.org/L1/L-254900AN4FF8GMR1UL84,https://company.org/resource/Unity
+VAUGIRARD GRIMSBY,https://rdf.gleif.org/L1/L-969500MFFPU9CE6CBH68,https://company.org/resource/Grimsby%20Town%20and%20Grimsby%20Town%20Football%20Club
+VEEVA SYSTEMS INC.,https://rdf.gleif.org/L1/L-549300YZEXPDB92M2F02,https://company.org/resource/Veeva%20Systems%20Inc.%20and%20
+VEEVA SYSTEMS INC.,https://rdf.gleif.org/L1/L-549300YZEXPDB92M2F02,https://company.org/resource/Veeva%20Systems%20Inc.%20and
+GOOGLE LLC,https://rdf.gleif.org/L1/L-7ZW8QJWVPR4P1J1KQY45,https://company.org/resource/YouTube
+CYNTEXA LABS PRIVATE LIMITED,https://rdf.gleif.org/L1/L-254900SPB5C3ZF8Q4160,https://company.org/resource/Cyntexa
+InfoTrellis Inc,https://rdf.gleif.org/L1/L-549300UHTTNS6EPYV670,https://company.org/resource/Trellix
+NetSuite Inc.,https://rdf.gleif.org/L1/L-549300GBY5VYCIKSRU87,https://company.org/resource/NetSuite
+NetSuite Inc.,https://rdf.gleif.org/L1/L-549300GBY5VYCIKSRU87,https://company.org/resource/NetSuite%20Inc.
+MERCER LIMITED,https://rdf.gleif.org/L1/L-213800R1B3QMMKVP2A27,https://company.org/resource/Mercer
